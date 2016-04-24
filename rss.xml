@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cigars4Soul]]></title>
         <description><![CDATA[Cigars4Soul]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cigars4soul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:05:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 23:08:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cigars4soul/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>My first post - CoRo '09 + Diplomático Single Vintage 1997</p>]]></description>
-            <link>undefinedmy-first-post-coro-09-diplomatico-single-vintage-1997/index.html</link>
+            <title><![CDATA[My First Post]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b7a09f9-8b66-44db-bd2d-272146a0fe8f.jpg">]]></description>
+            <link>https://thegrid.ai/cigars4soul/my-first-post-coro-09-diplomatico-single-vintage-1997/index.html</link>
             <guid isPermaLink="false">ebb556b6-103a-46a3-a5ca-85c4ed08cf8f</guid>
-            <pubDate>Sun, 24 Apr 2016 23:05:20 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 23:07:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
