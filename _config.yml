@@ -1,0 +1,28 @@
+name: Cigars4Soul
+favicon: null
+layout_spectrum: 0.40838595968671143
+typography_spectrum: 0.09010809822939336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6721427273005247
+  lightness: 0.6080168071202934
+  saturation: 0.4557201745919883
+  rhythmicContrast: 0.7807396878488362
+purpose: []
